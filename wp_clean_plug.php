@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       WP clean up
  * Plugin URI:        https://github.com/arashzam/wp_clean_plug
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Description:       this is my short plugin.
+ * Version:           1.0.2
  * Author:            arash
  * Author URI:        https://github.com/arashzam
  * License:           GPL-2.0+
